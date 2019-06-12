@@ -1,5 +1,5 @@
 # How to run a Keras model on Android
-
+name in keras_model_for_android.pbtxt input and output layer names out/activation
 This code is a simple example to understand how to run a Keras model on Android using Tensorflow API.
 
 ## Train the model on a computer
